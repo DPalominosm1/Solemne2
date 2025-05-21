@@ -1,0 +1,17 @@
+main {
+    background-color: rgb(80, 166, 247);
+}   
+body {
+    background-color: rgb(194, 255, 52);
+}
+h1 {
+  background-color: green;
+}
+
+div {
+  background-color: lightblue;
+}
+
+p {
+  background-color: yellow;
+}
